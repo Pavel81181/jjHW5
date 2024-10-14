@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ChatServer" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="org.example.chatserver.Program" />
+    <module name="chat-server" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chat-server/src/main/java/org/example/chatserver" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
